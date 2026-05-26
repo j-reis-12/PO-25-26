@@ -8,3 +8,7 @@ extensibility and the open‑closed principle, requiring the system to support n
 classifications, new borrowing rules, and new search mechanisms with minimal impact on existing code. It integrates
 domain modeling, inheritance, polymorphism, exception handling, serialization, and a structured UI command framework
 to deliver a robust, modular, and maintainable application.
+
+This project uses the official PO support libraries provided publicly on the course website for Programação com
+Objectos (IST). These libraries are not included in this repository and must be downloaded from the official course
+page (2025-2026 version).
