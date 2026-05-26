@@ -10,5 +10,5 @@ domain modeling, inheritance, polymorphism, exception handling, serialization, a
 to deliver a robust, modular, and maintainable application.
 
 > This project uses official PO support libraries provided on the website for the Object-Oriented Programming
-> course (IST). These libraries are not included in this repository and must be downloaded from the official course
-> page (2025-2026 version) to work with the application.
+> course (IST). These libraries are **not** included in this repository and must be downloaded from the official
+> course page (2025-2026 version) to work with the application.
