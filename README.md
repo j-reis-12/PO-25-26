@@ -9,6 +9,6 @@ classifications, new borrowing rules, and new search mechanisms with minimal imp
 domain modeling, inheritance, polymorphism, exception handling, serialization, and a structured UI command framework
 to deliver a robust, modular, and maintainable application.
 
-This project uses official PO support libraries provided on the website for the Object-Oriented Programming
-course (IST). These libraries are not included in this repository and must be downloaded from the official course
-page (2025-2026 version) to work with the application.
+> This project uses official PO support libraries provided on the website for the Object-Oriented Programming
+> course (IST). These libraries are not included in this repository and must be downloaded from the official course
+> page (2025-2026 version) to work with the application.
